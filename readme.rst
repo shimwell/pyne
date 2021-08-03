@@ -39,7 +39,7 @@ PyNE has the following dependencies:
    #. `Jinja2 <http://jinja.pocoo.org/>`_
 
 Optional Depenendencies:
-   #. `MOAB <https://press3.mcs.anl.gov/sigma/moab-library>`_
+   #. `MOAB <https://sigma.mcs.anl.gov/moab-library/>`_
    #. `DAGMC <https://svalinn.github.io/DAGMC/install/index.html>`__
    #. `OpenMC <https://docs.openmc.org/en/stable/quickinstall.html>`_
    
